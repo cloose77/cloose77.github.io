@@ -10,3 +10,6 @@
 * Mister Universum 
 
 > hasta la vista, baby
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Reagan%2BSchwarzenegger1984.jpg"/>
